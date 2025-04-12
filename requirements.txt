@@ -1,7 +1,8 @@
 streamlit
+python-dotenv
 agno
 composio-phidata
-openai
-arxiv
-serpapi
-python-dotenv
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+serpapi-python
